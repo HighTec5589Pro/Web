@@ -72,3 +72,20 @@ body {
     color: #23527c;
     transition: color 0.2s ease;
     }
+
+    h4 {
+    text-align: center;
+    background-color: Blue; 
+    color: white; 
+    padding: 15px; 
+    border-radius: 10px;
+    }
+
+    h2{
+    margin-top: -10px;
+    }
+
+    p {
+    margin-top: -6px;
+    font-size: large;
+    }

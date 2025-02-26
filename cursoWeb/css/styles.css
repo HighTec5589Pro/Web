@@ -10,7 +10,26 @@ body {
     padding: 20px;
     text-align: center;
     }
+
+    h2 {
+    margin-left: auto;
+    margin-top: auto;
+    color: rgb(24, 189, 255);
+    text-decoration: underline;
+    }
+
+    h3 {
+    margin-left: auto;
+    margin-top: auto;
+    color: rgb(0, 0, 0);
+    }
     
+    .contenedor_imagen {
+    text-align: center;
+    width: 100%;
+    background-color: #093454;
+    }
+
     main {
     display: flex;
     flex-direction: column;
@@ -23,12 +42,6 @@ body {
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-    
-    h3 {
-    margin-left: auto;
-    margin-top: auto;
-    color: rgb(0, 0, 0);
     }
 
     ul {
@@ -79,10 +92,6 @@ body {
     color: white; 
     padding: 15px; 
     border-radius: 10px;
-    }
-
-    h2{
-    margin-top: -10px;
     }
 
     p {
